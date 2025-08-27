@@ -1,5 +1,3 @@
-#Prado, Dandel Oliver S.
-#G-6L
 #mtpw = milk tea per week
 #cimt = calories in milk tea
 #cpy = calories per year
