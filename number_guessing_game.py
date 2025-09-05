@@ -1,7 +1,7 @@
 import random
 import time
 
-i = random.randint(1, 100)
+i = random.randint(1, 100) #picks a number from 1-100
 print("Welcome to the CMSC 12 Class G Guessing Game!")
 print("Guess the number (1-100): ")
 
@@ -12,7 +12,7 @@ while guesses > 0:
 
     if answer > i:
         print("Guess lower!: ")
-        time.sleep(0.4)
+        time.sleep(0.4) #time delay for aesthetics
     elif answer < i:
         print("Guess higher!: ")
         time.sleep(0.4)
