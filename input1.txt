@@ -1,0 +1,40 @@
+1
+MIBF1
+Goodbye, Again
+Jonny Sun
+500
+09-Sep-2025 
+to-read
+1
+MIBF2
+Gene
+Siddhartha Mukherjee
+770
+09-Sep-2025 
+currently-reading
+1
+MIBF3
+The Bell Jar
+Sylvia Plath
+770
+09-Sep-2025 
+finished
+2
+3
+MIBF1
+finished
+2
+4
+MIBF1
+Sep 21, 2025: First essay hit hard.
+4
+MIBF1
+Sep 22, 2025: Maybe I should get a plant.
+4
+MIBF1
+"When something falls away naturally, it will grow roots of its own."
+4
+MIBF2
+This is a long book.
+2
+0
