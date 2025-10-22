@@ -1,6 +1,3 @@
 # UPLB-CMSC-12-Exercises
 Exercises from UPLB CMSC 12 Lab classes
-
-Exercise 1 - Calories from milktea
-
-Exercise 2 - Fuel price calculator
+This repository includes different file dumps and problem solving that's outside of CMSC12
