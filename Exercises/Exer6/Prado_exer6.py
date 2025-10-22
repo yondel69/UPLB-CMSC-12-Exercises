@@ -1,7 +1,7 @@
 # Dandel Oliver S. Prado
 # CMSC 12 G-6L
 
-# Personal library program that manages book informations incuding 
+# Personal library program that manages book information incuding 
 # name, author, price, status, and lets you add reader's notes. 
 #------------------------------------------------------------------
 
@@ -169,3 +169,4 @@ def mainProgram(): #main function
             options[choice](catalogue)
 
 mainProgram()
+
