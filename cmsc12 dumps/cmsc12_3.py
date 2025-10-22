@@ -1,4 +1,4 @@
-def palindrome(list): #will only work assuming that the words will not not have spaces or " " between them
+def palindrome(list): #will only work assuming that the words will not have spaces or " " between them
     t_value = []
     for word in list:
         no_space = word.replace(" ", "") #this line was added to make sure it follows the problem
@@ -13,3 +13,4 @@ def palindrome(list): #will only work assuming that the words will not not have 
 list_1 = ["madam", "race car"] #result should be true, true
 results = palindrome(list_1)
 print(results)
+
